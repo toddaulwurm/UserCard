@@ -1,0 +1,31 @@
+#top {
+    background-color: forestgreen;
+    height: 100px;
+
+}
+
+#user {
+    height: 80px;
+    position: absolute;
+    top: 50px;
+    left: 80px;
+}
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.pic {
+    height: 20px;
+    margin-left: 20px;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 10px;
+}
+h1, h2, h3 {
+    margin: 20px 0px 10px 20px;
+}
